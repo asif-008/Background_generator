@@ -1,2 +1,2 @@
 # Background_generator
-A learning project.
+A learning project!
